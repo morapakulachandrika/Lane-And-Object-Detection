@@ -1,6 +1,11 @@
 # Lane-And-Object-Detection
 # 🚗 Lane and Object Detection on Images using ENet-SAD & YOLOv5
+## 👩‍💻 Authors
+#### M. Chandrika (Y22ACS507)
+#### P. Prem Sai (Y22ACS531)
+#### P. Hemanth Phanindra Varma (Y22ACS527)
 
+GitHub: https://github.com/morapakulachandrika
 ## 📌 Overview
 
 This project implements a **hybrid deep learning system** for:
@@ -109,9 +114,6 @@ python main.py --source input_images/test.jpg
 ### 🔗 Combined Output
 ![Combined](LaneAndObject.jpg)
 
-## 👩‍💻 Author
 
-**Your Name**
-GitHub: https://github.com/morapakulachandrika
 
 ---
